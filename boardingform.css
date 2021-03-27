@@ -1,0 +1,35 @@
+#termsandcon{
+    width: 510px;
+    background-color: blue;
+    color: yellow;
+
+}
+#link{
+    background-color: blue;
+}
+
+#apply{
+    width: 510px;
+    background-color: yellow;
+    color:blue; 
+}
+
+#questions{
+    width: 510px;
+    background-color: blue;
+    color: yellow;
+}
+#conditions{
+    color: blue;
+}
+
+a{
+    color: yellow;
+}
+#aform{
+    display: block;
+}
+
+input {
+    margin-bottom: 10px;
+}
